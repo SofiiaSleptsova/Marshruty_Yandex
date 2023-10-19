@@ -51,7 +51,7 @@
 
 ![Чек лист верстки](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/65f4af86-6c5c-4d50-8ba0-0f001259bd8c)
 
-![2  Чек-лист «Способ оплаты» и «Добавление карты»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/61769a6a-73f7-471f-8198-81f9980839ef)
+![2  Чек-лист «Способ оплаты» и «Добавление карты»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/0d17cf3a-8502-40aa-81f4-ae331b73d875)
 
 ![2  Тест-кейсы на кнопку «Забронировать»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/cbdb1ef1-c1dc-4cb3-b1a7-7d79a1bb181a)
 
