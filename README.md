@@ -48,7 +48,8 @@
 
 ## Тестовая документация
 
-![Тест-кейсы логика интерфейса](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/f7464be7-b6e9-4faf-930f-26157e495d01)
+![Тест-кейсы логика интерфейса](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b816342-bd34-4747-9812-60c26a0ae7bf)
+
 
 
 
