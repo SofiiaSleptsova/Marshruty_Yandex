@@ -1,4 +1,4 @@
-# Яндекс Маршруты
+![1  Чек-лист на вёрстку](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/54c5492b-d988-42a7-a0de-d6e9698b1f98)# Яндекс Маршруты
 
 Яндекс.Маршруты - это онлайн-сервис от компании Яндекс, предоставляющий пользователям возможность быстро и удобно планировать путешествия и маршруты. Сервис предлагает подробную информацию о дорожной ситуации, различные варианты маршрутов для пешеходов, велосипедистов и водителей, а также прокладывает оптимальные маршруты с учетом текущего движения, пробок и других факторов. 
 
@@ -50,6 +50,17 @@
 
 ![Тест-кейсы логика интерфейса](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b816342-bd34-4747-9812-60c26a0ae7bf)
 
+![2  Тест-кейсы на кнопку «Забронировать»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/c7bbcfa3-1983-4d0a-95c1-79fb84e857f9)
+
+![Чек-лист верстки](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/2c38dbab-fac1-4647-aaca-2f64c1804390)
+
+![2  Чек-лист «Способ оплаты» и «Добавление карты»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/61769a6a-73f7-471f-8198-81f9980839ef)
+
+![2  Тест-кейсы на кнопку «Забронировать»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/cbdb1ef1-c1dc-4cb3-b1a7-7d79a1bb181a)
+
+![2  Тест-кейсы на логику бронирования](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3ddb2512-3f36-4eba-9838-306bf8443f55)
+
+![5  Чек-лист на аэротакси](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/504f9fce-e459-41f2-b823-dd2379420c92)
 
 
 
