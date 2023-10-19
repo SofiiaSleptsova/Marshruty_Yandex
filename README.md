@@ -29,21 +29,21 @@
 
 Для обеспечения полной ясности и понимания, требования были структурированы и представлены в виде ментальной карты (mindmap) с целью визуализации, чтобы убедиться, что все требования корректно охвачены и не существует недопониманий или серых зон.
 
-<img src="https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/f27075d3-effe-4410-861f-7ea64602ace7" width="600" height="400">
+<img src="https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/f27075d3-effe-4410-861f-7ea64602ace7" width="700" height="500">
 
 [MindMap](https://drive.google.com/file/d/113BxIc8RQGmKBALEat-KJPAvswUswN1x/view?usp=sharing)
 
 Далее провели повторный тест-анализ, используя диаграмму связей, а также подготовили блок-схему для транспорта "такси". Важно отметить, что другие виды транспорта были рассмотрены и проанализированы другими членами нашей команды тестировщиков.
 
-<img src="https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b7f2a5d-9fe2-41cb-95e1-99b4237f61f2" width="200" height="600">
+<img src="https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b7f2a5d-9fe2-41cb-95e1-99b4237f61f2" width="250" height="600">
 
 ### Техники-тест дизайна
 
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
 ![КЭ часть 1-3](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/c72214eb-5c70-4e06-a48b-ab63c99fb115)
-<img src="https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/c72214eb-5c70-4e06-a48b-ab63c99fb115" width="600" height="400">
 
+![КЭ часть 2](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/c5585e83-4bbc-4337-9078-d672d6732e31)
 
 ## Тестовая документация
 Какие инструменты тестирования использованы в проекте и как их запускать. Например:
