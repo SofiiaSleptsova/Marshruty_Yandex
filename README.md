@@ -42,7 +42,8 @@
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
 ![КЭ часть 1](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/dbf494ae-7d2e-46fa-bca9-72f7afa85405)
-![КЭ часть 2](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3ebfe51f-7c1b-43b9-9d38-426f116001e1)
+![КЭ часть 2](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/9ab4fdc6-c85a-475e-9fec-5f31ef9d57ef)
+
 
 
 ## Тестовая документация
