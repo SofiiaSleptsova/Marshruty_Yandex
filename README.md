@@ -29,9 +29,9 @@
 
 #### Макеты
 
-![iScreen Shoter - Safari - 231020150119](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/997cac9c-8cd3-411a-bc75-8c2b4e434f73)
+![Макет1](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/997cac9c-8cd3-411a-bc75-8c2b4e434f73)
 
-![iScreen Shoter - Safari - 231020150213](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/2ecdd524-c9ed-42d6-ad72-cda16f8f3c45)
+![Макет2](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/2ecdd524-c9ed-42d6-ad72-cda16f8f3c45)
 
 ![iScreen Shoter - Safari - 231020150252](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/7c922c18-2bf7-432c-9ae6-7aaa34ebd089)
 
