@@ -473,6 +473,7 @@ t = S/V
 
 ![5  Чек-лист на аэротакси](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/504f9fce-e459-41f2-b823-dd2379420c92)
 
+[Тестовая документация с кликабельными ссылками на баг репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 
 
