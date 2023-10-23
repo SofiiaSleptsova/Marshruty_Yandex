@@ -8,10 +8,7 @@
 - [Инструменты](#иструменты)
 - [Планирование тестирования](#планированиетестирования)
 - [Тестовая документация](#тестоваядокументация)
-- [Deploy и CI/CD](#deploy-и-ci/cd)
-- [Contributing](#contributing)
-- [To do](#to-do)
-- [Команда проекта](#команда-проекта)
+
 
 ## Требования по проекту
 
@@ -423,6 +420,7 @@ t = S/V
 
 </details>
 
+***
 
 ## Инструменты
 <p align="left"> 
@@ -434,9 +432,11 @@ t = S/V
   <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
 </p> 
 
-
+***
 
 ## Планирование тестирования
+
+***
 
 ### Тест-анализ
 
@@ -450,6 +450,8 @@ t = S/V
 
 <img src="https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b7f2a5d-9fe2-41cb-95e1-99b4237f61f2" width="250" height="600">
 
+***
+
 ### Техники-тест дизайна
 
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
@@ -458,10 +460,13 @@ t = S/V
 ![КЭ часть 1](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/7e02ed73-d2fb-4490-9516-ae6123217e59)
 ![КЭ часть 2](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/f4019505-30b6-434c-89ce-0e25b1acb01a)
 
+***
 
 ## Тестовая документация
 
 ![Тест-кейсы логика интерфейса](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b816342-bd34-4747-9812-60c26a0ae7bf)
+
+***
 
 ![Чек лист верстки](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/65f4af86-6c5c-4d50-8ba0-0f001259bd8c)
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
@@ -997,6 +1002,8 @@ Firefox, разрешение экрана 1920x1080
 
 </details>
 
+***
+
 ![2  Чек-лист «Способ оплаты» и «Добавление карты»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/0d17cf3a-8502-40aa-81f4-ae331b73d875)
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
@@ -1400,6 +1407,8 @@ MacOS
 
 </details>
 
+***
+
 ![2  Тест-кейсы на кнопку «Забронировать»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/cbdb1ef1-c1dc-4cb3-b1a7-7d79a1bb181a)
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
@@ -1525,6 +1534,8 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 </details>
+
+***
 
 ![2  Тест-кейсы на логику бронирования](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3ddb2512-3f36-4eba-9838-306bf8443f55)
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
@@ -1690,7 +1701,6 @@ Firefox, разрешение экрана 1920x1080
 
 </details>
 
----
 
 ***
 
