@@ -464,16 +464,20 @@ t = S/V
 ![Тест-кейсы логика интерфейса](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b816342-bd34-4747-9812-60c26a0ae7bf)
 
 ![Чек лист верстки](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/65f4af86-6c5c-4d50-8ba0-0f001259bd8c)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 ![2  Чек-лист «Способ оплаты» и «Добавление карты»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/0d17cf3a-8502-40aa-81f4-ae331b73d875)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 ![2  Тест-кейсы на кнопку «Забронировать»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/cbdb1ef1-c1dc-4cb3-b1a7-7d79a1bb181a)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 ![2  Тест-кейсы на логику бронирования](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3ddb2512-3f36-4eba-9838-306bf8443f55)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 ![5  Чек-лист на аэротакси](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/504f9fce-e459-41f2-b823-dd2379420c92)
 
-[Тестовая документация с кликабельными ссылками на баг репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 
 
