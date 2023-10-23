@@ -467,6 +467,9 @@ t = S/V
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 <details>
+<summary> Баг-репорты </summary>
+	
+<details>
 <summary>Bug-report 682-1 </summary>
 
 ### В блоке с информацией под кратким описанием о тарифе отсутствует иконка "бегущего человека" [682-1](https://slepsovasonya.youtrack.cloud/issue/682-1/V-bloke-s-informaciej-pod-kratkim-opisaniem-o-tarife-otsutstvuet-ikonka-begushego-cheloveka)
@@ -989,6 +992,8 @@ Firefox, разрешение экрана 1920x1080
 MacOS    
 Яндекс.Браузер, разрешение экрана 800x600,  
 Firefox, разрешение экрана 1920x1080  
+
+</details>
 
 </details>
 
