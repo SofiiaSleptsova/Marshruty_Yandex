@@ -467,7 +467,7 @@ t = S/V
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 <details>
- ### Баг-репорты 
+ <summary> Баг-репорты </summary>
 	
 <details>
 <summary>Bug-report 682-1 </summary>
