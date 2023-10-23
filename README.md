@@ -470,7 +470,7 @@ t = S/V
  <summary> Баг-репорты </summary>
 	
 <details>
-<summary>Bug-report 682-1 </summary>
+<summary>ID: 682-1 </summary>
 
 ### В блоке с информацией под кратким описанием о тарифе отсутствует иконка "бегущего человека" [682-1](https://slepsovasonya.youtrack.cloud/issue/682-1/V-bloke-s-informaciej-pod-kratkim-opisaniem-o-tarife-otsutstvuet-ikonka-begushego-cheloveka)
  
@@ -500,7 +500,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-4 </summary>
+<summary>ID: 682-4 </summary>
 
 ### При прохождении верификации прав в поле "Добавить права" с правой стороны поля НЕ появляется галочка [682-4](https://slepsovasonya.youtrack.cloud/issue/682-4)
 
@@ -534,7 +534,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-26 </summary>
+<summary>ID: 682-26 </summary>
 
 ### При введени НЕвалидных прав в поле "Добавить права" в окне "Добавление прав", введенные данные обрабатываются как корректные [682-26](https://slepsovasonya.youtrack.cloud/issue/682-26)
 
@@ -566,7 +566,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-7 </summary>
+<summary>ID: 682-7 </summary>
 
 ### При НЕзаполненных данных, в окне "Добавление карты" в поле "Способ оплаты" текст - черного цвета [682-7](https://slepsovasonya.youtrack.cloud/issue/682-7)
 
@@ -595,7 +595,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-8 </summary>
+<summary>ID: 682-8 </summary>
 
 ### При выборе тарифа "Повседневный" требования к заказу в развернутом состоянии [682-8](https://slepsovasonya.youtrack.cloud/issue/682-8)
 
@@ -624,7 +624,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-9 </summary>
+<summary>ID: 682-9 </summary>
 
 ### В раскрывающем списке "Требования к заказу" в значении "Светомузыка" текст с подсказкой для перехода отличается [682-9](https://slepsovasonya.youtrack.cloud/issue/682-9)
 
@@ -656,7 +656,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-10 </summary>
+<summary>ID: 682-10 </summary>
 
 ### В требованиях к заказу в значении "Светомузыка" расположена иконка тарифа "Роскошный" [682-10](https://slepsovasonya.youtrack.cloud/issue/682-10)
 
@@ -688,7 +688,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-11 </summary>
+<summary>ID: 682-11 </summary>
 
 ### В окне "Машина забронирована" в центральной части указано название тарифа [682-11](https://slepsovasonya.youtrack.cloud/issue/682-11)
 
@@ -722,7 +722,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-32 </summary>
+<summary>ID: 682-32 </summary>
 
 ### В окне "Машина забронирована" в нижней части указан адрес от поля "Откуда" [682-32](https://slepsovasonya.youtrack.cloud/issue/682-32/V-okne-Mashina-zabronirovana-v-nizhnej-chasti-ukazan-adres-ot-polya-Otkuda)
 
@@ -754,7 +754,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-27 </summary>
+<summary>ID: 682-27 </summary>
 
 ### В окне "Машина забронирована" кнопка "отменить" НЕкликабельна, перехода в окно «Вы уверены, что хотите отменить поездку?» нет [682-27](https://slepsovasonya.youtrack.cloud/issue/682-27/V-okne-Mashina-zabronirovana-knopka-otmenit-NEklikabelna-perehoda-v-okno-Vy-uvereny-chto-hotite-otmenit-poezdku-net)
 
@@ -786,7 +786,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-28 </summary>
+<summary>ID: 682-28 </summary>
 
 ### В окне "Машина забронирована" кнопка "отменить" НЕкликабельна, переход в окно «Поездка отменена» невозможен [682-28](https://slepsovasonya.youtrack.cloud/issue/682-28/V-okne-Mashina-zabronirovana-knopka-otmenit-NEklikabelna-perehod-v-okno-Poezdka-otmenena-nevozmozhen)
 
@@ -819,7 +819,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-12 </summary>
+<summary>ID: 682-12 </summary>
 
 ### Ближайшая иконка машины от точки "А" на карте не увеличивается по размеру [682-12](https://slepsovasonya.youtrack.cloud/issue/682-12)
 
@@ -848,7 +848,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-13 </summary>
+<summary>ID: 682-13 </summary>
 
 ### Над логотипом, ближайшей машины от точки "А" на карте, НЕ появляется плашка [682-13](https://slepsovasonya.youtrack.cloud/issue/682-13)
 
@@ -877,7 +877,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-29 </summary>
+<summary>ID: 682-29 </summary>
 
 ### Выбранная кликом иконка машины на карте НЕ увеличивается по размеру [682-29](https://slepsovasonya.youtrack.cloud/issue/682-29/Vybrannaya-klikom-ikonka-mashiny-na-karte-NE-uvelichivaetsya-po-razmeru)
 
@@ -907,7 +907,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-30 </summary>
+<summary>ID: 682-30 </summary>
 
 ### Над логотипом, выбранной машины на карте, НЕ появляется плашка [682-30](https://slepsovasonya.youtrack.cloud/issue/682-30/Nad-logotipom-vybrannoj-mashiny-na-karte-NE-poyavlyaetsya-plashka)
 
@@ -937,7 +937,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-31 </summary>
+<summary>ID: 682-31 </summary>
 
 ### При клике на иконку машины на карте, НЕ обновляется информацию о машине в форме бронирования [682-31](https://slepsovasonya.youtrack.cloud/issue/682-31/Pri-klike-na-ikonku-mashiny-na-karte-NE-obnovlyaetsya-informaciyu-o-mashine-v-forme-bronirovaniya)
 
@@ -967,7 +967,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 <details>
-<summary>Bug-report 682-42 </summary>
+<summary>ID: 682-42 </summary>
 
 ### Все иконки машин на карте расположены в вертикальном виде [682-42](https://slepsovasonya.youtrack.cloud/issue/682-42/Vse-ikonki-mashin-na-karte-raspolozheny-v-vertikalnom-vide)
 
