@@ -490,13 +490,16 @@ t = S/V
 ![КЭ часть 1](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/7e02ed73-d2fb-4490-9516-ae6123217e59)
 ![КЭ часть 2](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/f4019505-30b6-434c-89ce-0e25b1acb01a)
 
-### Тестовая документация
+### Проектирование тестов
 
 ![Тест-кейсы логика интерфейса](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3b816342-bd34-4747-9812-60c26a0ae7bf)
 
 ## 2 спринт
-### Тестовая документация
+### Проектирование тестов
 ![Чек лист верстки](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/65f4af86-6c5c-4d50-8ba0-0f001259bd8c)
+
+### Выполнение тестов
+
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 <details>
