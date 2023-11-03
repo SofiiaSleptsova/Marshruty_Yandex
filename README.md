@@ -1440,7 +1440,12 @@ MacOS
 
 ***
 
+### Проектирование тестов
+
 ![2  Тест-кейсы на кнопку «Забронировать»](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/cbdb1ef1-c1dc-4cb3-b1a7-7d79a1bb181a)
+
+### Выполнение тестов
+
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 <details>
@@ -1568,7 +1573,12 @@ Firefox, разрешение экрана 1920x1080
 
 ***
 
+### Проектирование тестов
+
 ![2  Тест-кейсы на логику бронирования](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3ddb2512-3f36-4eba-9838-306bf8443f55)
+
+### Выполнение тестов
+
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 <details>
@@ -1736,8 +1746,11 @@ Firefox, разрешение экрана 1920x1080
 ***
 
 ## 3 спринт
-### Тестовая документация
+### Проектирование тестов
 ![5  Чек-лист на аэротакси](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/504f9fce-e459-41f2-b823-dd2379420c92)
+
+### Выполнение тестов
+
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
 <details>
