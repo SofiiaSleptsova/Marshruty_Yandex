@@ -468,7 +468,7 @@ t = S/V
   <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
 </p> 
 
-## Процесс работы]
+## Процесс работы
 ## 1 спринт
 ### Задача 1 (планирование тестирования)
 #### Тест-анализ
