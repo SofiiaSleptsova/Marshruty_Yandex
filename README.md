@@ -1579,11 +1579,11 @@ Firefox, разрешение экрана 1920x1080
 
 ***
 
-### Проектирование тестов
+### Задача 3 (проектирование тестов)
 
 ![2  Тест-кейсы на логику бронирования](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/3ddb2512-3f36-4eba-9838-306bf8443f55)
 
-### Выполнение тестов
+### Задача 4 (выполнение тестов)
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
