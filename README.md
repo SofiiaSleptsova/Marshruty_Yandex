@@ -1572,11 +1572,8 @@ MacOS
 Firefox, разрешение экрана 1920x1080  
 ***
 </details>
-
-<details>
-<summary>ID: 682-22 </summary>
-
 </details>
+
 
 #### Задача 3 (проектирование тестов)
 
