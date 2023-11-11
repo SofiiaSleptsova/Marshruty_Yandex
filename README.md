@@ -1758,6 +1758,7 @@ Firefox, разрешение экрана 1920x1080
 </details>
 
 ### 3 спринт
+
 #### Задача 3 (проектирование тестов)
 ![5  Чек-лист на аэротакси](https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/504f9fce-e459-41f2-b823-dd2379420c92)
 
